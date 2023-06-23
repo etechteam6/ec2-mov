@@ -1,0 +1,11 @@
+  apiVersion: v1
+  kind: Pod 
+  metadata: 
+    name: etech-pod
+    namespace: prod
+    labels:
+            app: etech-pod
+  spec:
+    containers:
+      -  name: nginx
+      -  image: $image        

@@ -1,0 +1,4 @@
+Name      Role      Salary
+Moses     SRE       $2.5M
+Eric      Devops    $300k
+Levi      IT        $250k

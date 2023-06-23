@@ -1,0 +1,458 @@
+/run/cloud-init/ds-identify.log
+/run/cloud-init/cloud-init-generator.log
+/home/ubuntu/blessings.log
+/home/ubuntu/team5/seddemo.log
+/home/ubuntu/tech.log
+/home/ubuntu/scripts/appbank.log
+/home/ubuntu/seddemo.log
+/home/ubuntu/build.log
+/var/log/auth.log
+/var/log/cloud-init.log
+/var/log/cloud-init-output.log
+/var/log/ubuntu-advantage.log
+/var/log/ubuntu-advantage-timer.log
+/var/log/kern.log
+/var/log/landscape/sysinfo.log
+/var/log/apt/term.log
+/var/log/apt/history.log
+/var/log/amazon/ssm/hibernate.log
+/var/log/amazon/ssm/amazon-ssm-agent.log
+/var/log/unattended-upgrades/unattended-upgrades-shutdown.log
+/var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+/var/log/unattended-upgrades/unattended-upgrades.log
+/var/log/dpkg.log
+/var/log/alternatives.log
+/tmp/team5/seddemo.log
+/home/ubuntu/.bash_logout
+/home/ubuntu/.bashrc
+/home/ubuntu/.profile
+/home/ubuntu/.cache
+/home/ubuntu/.cache/motd.legal-displayed
+/home/ubuntu/file10
+/home/ubuntu/GROUP_NAME
+/home/ubuntu/file7
+/home/ubuntu/file3
+/home/ubuntu/file5
+/home/ubuntu/.config
+/home/ubuntu/.config/procps
+/home/ubuntu/.bash_logout
+/home/ubuntu/file9
+/home/ubuntu/team5/employee.txt
+/home/ubuntu/team5/team7.txt
+/home/ubuntu/team5/team14.txt
+/home/ubuntu/team5/team12.txt
+/home/ubuntu/team5/seddemo.log
+/home/ubuntu/team5/team11.txt
+/home/ubuntu/team5/team13.txt
+/home/ubuntu/team5/team15.txt
+/home/ubuntu/result.txt
+/home/ubuntu/.bashrc
+/home/ubuntu/scripts
+/home/ubuntu/scripts/atmcard.sh
+/home/ubuntu/scripts/GROUP_NAME
+/home/ubuntu/scripts/mydirectory.sh
+/home/ubuntu/scripts/Him
+/home/ubuntu/scripts/testpem
+/home/ubuntu/scripts/sysanalysis.sh
+/home/ubuntu/scripts/moses
+/home/ubuntu/scripts/compare1.sh
+/home/ubuntu/scripts/appbank
+/home/ubuntu/scripts/appbank.log
+/home/ubuntu/scripts/mmm
+/home/ubuntu/scripts/hoe
+/home/ubuntu/scripts/hoe/.git
+/home/ubuntu/scripts/hoe/.git/config
+/home/ubuntu/scripts/hoe/.git/refs
+/home/ubuntu/scripts/hoe/.git/refs/tags
+/home/ubuntu/scripts/hoe/.git/refs/heads
+/home/ubuntu/scripts/hoe/.git/info
+/home/ubuntu/scripts/hoe/.git/info/exclude
+/home/ubuntu/scripts/hoe/.git/objects
+/home/ubuntu/scripts/hoe/.git/objects/info
+/home/ubuntu/scripts/hoe/.git/objects/pack
+/home/ubuntu/scripts/hoe/.git/description
+/home/ubuntu/scripts/hoe/.git/branches
+/home/ubuntu/scripts/hoe/.git/HEAD
+/home/ubuntu/scripts/hoe/.git/hooks
+/home/ubuntu/scripts/hoe/.git/hooks/applypatch-msg.sample
+/home/ubuntu/scripts/hoe/.git/hooks/update.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-receive.sample
+/home/ubuntu/scripts/hoe/.git/hooks/post-update.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-commit.sample
+/home/ubuntu/scripts/hoe/.git/hooks/fsmonitor-watchman.sample
+/home/ubuntu/scripts/hoe/.git/hooks/prepare-commit-msg.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-merge-commit.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-push.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-applypatch.sample
+/home/ubuntu/scripts/hoe/.git/hooks/pre-rebase.sample
+/home/ubuntu/scripts/hoe/.git/hooks/commit-msg.sample
+/home/ubuntu/scripts/dir
+/home/ubuntu/scripts/king
+/home/ubuntu/scripts/him
+/home/ubuntu/scripts/script1.sh
+/home/ubuntu/scripts/Kings
+/home/ubuntu/scripts/gitrepo.sh
+/home/ubuntu/scripts/appbank.sh
+/home/ubuntu/scripts/file22
+/home/ubuntu/scripts/dirtest
+/home/ubuntu/scripts/dirtest/.git
+/home/ubuntu/scripts/dirtest/.git/config
+/home/ubuntu/scripts/dirtest/.git/refs
+/home/ubuntu/scripts/dirtest/.git/refs/tags
+/home/ubuntu/scripts/dirtest/.git/refs/heads
+/home/ubuntu/scripts/dirtest/.git/info
+/home/ubuntu/scripts/dirtest/.git/info/exclude
+/home/ubuntu/scripts/dirtest/.git/objects
+/home/ubuntu/scripts/dirtest/.git/objects/info
+/home/ubuntu/scripts/dirtest/.git/objects/pack
+/home/ubuntu/scripts/dirtest/.git/description
+/home/ubuntu/scripts/dirtest/.git/branches
+/home/ubuntu/scripts/dirtest/.git/HEAD
+/home/ubuntu/scripts/dirtest/.git/hooks
+/home/ubuntu/scripts/dirtest/.git/hooks/applypatch-msg.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/update.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-receive.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/post-update.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-commit.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/fsmonitor-watchman.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/prepare-commit-msg.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-merge-commit.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-push.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-applypatch.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/pre-rebase.sample
+/home/ubuntu/scripts/dirtest/.git/hooks/commit-msg.sample
+/home/ubuntu/scripts/King
+/home/ubuntu/scripts/testdir
+/home/ubuntu/scripts/compare.sh
+/home/ubuntu/scripts/monitor.sh
+/home/ubuntu/scripts/scriptlearn.sh
+/home/ubuntu/file6
+/home/ubuntu/.profile
+/home/ubuntu/file2
+/home/ubuntu/.ssh/authorized_keys
+/home/ubuntu/.sudo_as_admin_successful
+/home/ubuntu/team10.txt
+/home/ubuntu/file8
+/home/ubuntu/file4
+-rw-------  1 ubuntu ubuntu   6811 Jun  1 02:41 /home/ubuntu/.bash_history
+-rw-r--r--  1 ubuntu ubuntu    220 Feb 25  2020 /home/ubuntu/.bash_logout
+-rw-r--r--  1 ubuntu ubuntu   3771 Feb 25  2020 /home/ubuntu/.bashrc
+-rw-r--r--  1 ubuntu ubuntu      0 May 23 15:44 /home/ubuntu/.cache/motd.legal-displayed
+-rw-r--r--  1 ubuntu ubuntu    807 Feb 25  2020 /home/ubuntu/.profile
+-rw-------  1 ubuntu ubuntu    392 May 23 15:41 /home/ubuntu/.ssh/authorized_keys
+-rw-r--r--  1 ubuntu ubuntu      0 May 23 15:45 /home/ubuntu/.sudo_as_admin_successful
+-rw-rw-r--  1 ubuntu ubuntu 208809 May 26 14:23 /home/ubuntu/GROUP_NAME
+-rw-rw-r--  1 ubuntu ubuntu      0 Jun  1 02:39 /home/ubuntu/file1
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file10
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file2
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file3
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file4
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file5
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file6
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file7
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file8
+-rw-rw-r--  1 ubuntu ubuntu      0 May 23 16:16 /home/ubuntu/file9
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:31 /home/ubuntu/result.txt
+-rw-rw-r--  1 ubuntu ubuntu 417618 May 26 14:26 /home/ubuntu/scripts/GROUP_NAME
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 15:59 /home/ubuntu/scripts/King
+-rw-rw-r--  1 ubuntu ubuntu     72 May 25 21:22 /home/ubuntu/scripts/appbank
+-rw-rw-r--  1 ubuntu ubuntu   3056 May 26 23:27 /home/ubuntu/scripts/appbank.log
+-rwxr-xr-x  1 root   root      193 May 26 23:10 /home/ubuntu/scripts/appbank.sh*
+-rwxr-xr-x  1 root   root      213 May 25 00:59 /home/ubuntu/scripts/atmcard.sh*
+-rwxr-xr-x  1 root   root      248 May 25 01:34 /home/ubuntu/scripts/compare.sh*
+-rwxr-xr-x  1 root   root      140 May 25 20:21 /home/ubuntu/scripts/compare1.sh*
+-rw-rw-r--  1 ubuntu ubuntu     23 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/HEAD
+-rw-rw-r--  1 ubuntu ubuntu     92 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/config
+-rw-rw-r--  1 ubuntu ubuntu     73 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/description
+-rwxrwxr-x  1 ubuntu ubuntu    478 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/applypatch-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    896 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/commit-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   3079 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/fsmonitor-watchman.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    189 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/post-update.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    424 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-applypatch.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1638 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-commit.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    416 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-merge-commit.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1348 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-push.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   4898 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-rebase.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    544 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/pre-receive.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1492 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/prepare-commit-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   3610 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/hooks/update.sample*
+-rw-rw-r--  1 ubuntu ubuntu    240 May 25 00:23 /home/ubuntu/scripts/dirtest/.git/info/exclude
+-rw-rw-r--  1 ubuntu ubuntu     18 May 23 17:09 /home/ubuntu/scripts/file22
+-rwxr-xr-x  1 root   root      549 May 25 21:03 /home/ubuntu/scripts/gitrepo.sh*
+-rw-rw-r--  1 ubuntu ubuntu     23 May 25 20:22 /home/ubuntu/scripts/hoe/.git/HEAD
+-rw-rw-r--  1 ubuntu ubuntu     92 May 25 20:25 /home/ubuntu/scripts/hoe/.git/config
+-rw-rw-r--  1 ubuntu ubuntu     73 May 25 20:22 /home/ubuntu/scripts/hoe/.git/description
+-rwxrwxr-x  1 ubuntu ubuntu    478 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/applypatch-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    896 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/commit-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   3079 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/fsmonitor-watchman.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    189 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/post-update.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    424 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-applypatch.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1638 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-commit.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    416 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-merge-commit.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1348 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-push.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   4898 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-rebase.sample*
+-rwxrwxr-x  1 ubuntu ubuntu    544 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/pre-receive.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   1492 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/prepare-commit-msg.sample*
+-rwxrwxr-x  1 ubuntu ubuntu   3610 May 25 20:22 /home/ubuntu/scripts/hoe/.git/hooks/update.sample*
+-rw-rw-r--  1 ubuntu ubuntu    240 May 25 20:22 /home/ubuntu/scripts/hoe/.git/info/exclude
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 16:03 /home/ubuntu/scripts/king
+-rwxr-xr-x  1 root   root      294 May 23 16:45 /home/ubuntu/scripts/monitor.sh*
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 16:13 /home/ubuntu/scripts/moses
+-rwxr-xr-x  1 root   root      152 May 23 17:08 /home/ubuntu/scripts/mydirectory.sh*
+-rwxr-xr-x  1 root   root      254 May 23 16:03 /home/ubuntu/scripts/script1.sh*
+-rwxr-xr-x  1 root   root      246 May 23 16:12 /home/ubuntu/scripts/scriptlearn.sh*
+-rwxr-xr-x  1 root   root      372 May 26 23:03 /home/ubuntu/scripts/sysanalysis.sh*
+-rw-rw-r--  1 ubuntu ubuntu     40 May 24 22:05 /home/ubuntu/team10.txt
+-rw-r--r--  1 ubuntu ubuntu    105 May 24 22:25 /home/ubuntu/team5/employee.txt
+-rw-rw-r--  1 ubuntu ubuntu     24 May 24 21:17 /home/ubuntu/team5/seddemo.log
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:43 /home/ubuntu/team5/team11.txt
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:43 /home/ubuntu/team5/team12.txt
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:43 /home/ubuntu/team5/team13.txt
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:43 /home/ubuntu/team5/team14.txt
+-rw-rw-r--  1 ubuntu ubuntu      0 May 24 21:43 /home/ubuntu/team5/team15.txt
+-rw-rw-r--  1 ubuntu ubuntu     28 May 24 21:26 /home/ubuntu/team5/team7.txt
+
+/home/ubuntu/.cache:
+total 8
+drwx------  2 ubuntu ubuntu 4096 May 23 15:44 ./
+drwxr-xr-x 12 ubuntu ubuntu 4096 Jun  3 03:10 ../
+-rw-r--r--  1 ubuntu ubuntu    0 May 23 15:44 motd.legal-displayed
+
+/home/ubuntu/.config:
+total 12
+drwx------  3 ubuntu ubuntu 4096 May 26 22:03 ./
+drwxr-xr-x 12 ubuntu ubuntu 4096 Jun  3 03:10 ../
+drwx------  2 ubuntu ubuntu 4096 May 26 22:03 procps/
+
+/home/ubuntu/.config/procps:
+total 8
+drwx------ 2 ubuntu ubuntu 4096 May 26 22:03 ./
+drwx------ 3 ubuntu ubuntu 4096 May 26 22:03 ../
+
+/home/ubuntu/scripts:
+total 516
+drwxrwxr-x 11 ubuntu ubuntu   4096 May 26 23:10 ./
+drwxr-xr-x 12 ubuntu ubuntu   4096 Jun  3 03:10 ../
+-rw-rw-r--  1 ubuntu ubuntu 417618 May 26 14:26 GROUP_NAME
+drwxrwxr-x  2 ubuntu ubuntu   4096 May 23 17:07 Him/
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 15:59 King
+drwxr-xr-x  2 root   root     4096 May 25 00:07 Kings/
+-rw-rw-r--  1 ubuntu ubuntu     72 May 25 21:22 appbank
+-rw-rw-r--  1 ubuntu ubuntu   3056 May 26 23:27 appbank.log
+-rwxr-xr-x  1 root   root      193 May 26 23:10 appbank.sh*
+-rwxr-xr-x  1 root   root      213 May 25 00:59 atmcard.sh*
+-rwxr-xr-x  1 root   root      248 May 25 01:34 compare.sh*
+-rwxr-xr-x  1 root   root      140 May 25 20:21 compare1.sh*
+drwxr-xr-x  2 root   root     4096 May 25 00:09 dir/
+drwxrwxr-x  3 ubuntu ubuntu   4096 May 25 00:23 dirtest/
+-rw-rw-r--  1 ubuntu ubuntu     18 May 23 17:09 file22
+-rwxr-xr-x  1 root   root      549 May 25 21:03 gitrepo.sh*
+drwxrwxr-x  2 ubuntu ubuntu   4096 May 23 17:05 him/
+drwxrwxr-x  3 ubuntu ubuntu   4096 May 25 20:22 hoe/
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 16:03 king
+drwxrwxr-x  2 ubuntu ubuntu   4096 May 23 17:09 mmm/
+-rwxr-xr-x  1 root   root      294 May 23 16:45 monitor.sh*
+-rw-rw-r--  1 ubuntu ubuntu     37 May 23 16:13 moses
+-rwxr-xr-x  1 root   root      152 May 23 17:08 mydirectory.sh*
+-rwxr-xr-x  1 root   root      254 May 23 16:03 script1.sh*
+-rwxr-xr-x  1 root   root      246 May 23 16:12 scriptlearn.sh*
+-rwxr-xr-x  1 root   root      372 May 26 23:03 sysanalysis.sh*
+drwxrwxr-x  2 ubuntu ubuntu   4096 May 25 00:16 testdir/
+drwxr-xr-x  2 root   root     4096 May 25 00:11 testpem/
+
+/home/ubuntu/scripts/Him:
+total 8
+drwxrwxr-x  2 ubuntu ubuntu 4096 May 23 17:07 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/Kings:
+total 8
+drwxr-xr-x  2 root   root   4096 May 25 00:07 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/dir:
+total 8
+drwxr-xr-x  2 root   root   4096 May 25 00:09 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/dirtest:
+total 12
+drwxrwxr-x  3 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+drwxrwxr-x  7 ubuntu ubuntu 4096 May 25 00:23 .git/
+
+/home/ubuntu/scripts/dirtest/.git:
+total 40
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 3 ubuntu ubuntu 4096 May 25 00:23 ../
+-rw-rw-r-- 1 ubuntu ubuntu   23 May 25 00:23 HEAD
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 branches/
+-rw-rw-r-- 1 ubuntu ubuntu   92 May 25 00:23 config
+-rw-rw-r-- 1 ubuntu ubuntu   73 May 25 00:23 description
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 hooks/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 info/
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 objects/
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 refs/
+
+/home/ubuntu/scripts/dirtest/.git/branches:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ../
+
+/home/ubuntu/scripts/dirtest/.git/hooks:
+total 60
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ../
+-rwxrwxr-x 1 ubuntu ubuntu  478 May 25 00:23 applypatch-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  896 May 25 00:23 commit-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 3079 May 25 00:23 fsmonitor-watchman.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  189 May 25 00:23 post-update.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  424 May 25 00:23 pre-applypatch.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1638 May 25 00:23 pre-commit.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  416 May 25 00:23 pre-merge-commit.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1348 May 25 00:23 pre-push.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 4898 May 25 00:23 pre-rebase.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  544 May 25 00:23 pre-receive.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1492 May 25 00:23 prepare-commit-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 3610 May 25 00:23 update.sample*
+
+/home/ubuntu/scripts/dirtest/.git/info:
+total 12
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ../
+-rw-rw-r-- 1 ubuntu ubuntu  240 May 25 00:23 exclude
+
+/home/ubuntu/scripts/dirtest/.git/objects:
+total 16
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ../
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 info/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 pack/
+
+/home/ubuntu/scripts/dirtest/.git/objects/info:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ../
+
+/home/ubuntu/scripts/dirtest/.git/objects/pack:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ../
+
+/home/ubuntu/scripts/dirtest/.git/refs:
+total 16
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 00:23 ../
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 heads/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 tags/
+
+/home/ubuntu/scripts/dirtest/.git/refs/heads:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ../
+
+/home/ubuntu/scripts/dirtest/.git/refs/tags:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 00:23 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 00:23 ../
+
+/home/ubuntu/scripts/him:
+total 8
+drwxrwxr-x  2 ubuntu ubuntu 4096 May 23 17:05 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/hoe:
+total 12
+drwxrwxr-x  3 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+drwxrwxr-x  7 ubuntu ubuntu 4096 May 25 20:25 .git/
+
+/home/ubuntu/scripts/hoe/.git:
+total 40
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ./
+drwxrwxr-x 3 ubuntu ubuntu 4096 May 25 20:22 ../
+-rw-rw-r-- 1 ubuntu ubuntu   23 May 25 20:22 HEAD
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 branches/
+-rw-rw-r-- 1 ubuntu ubuntu   92 May 25 20:25 config
+-rw-rw-r-- 1 ubuntu ubuntu   73 May 25 20:22 description
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 hooks/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 info/
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 objects/
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 refs/
+
+/home/ubuntu/scripts/hoe/.git/branches:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ../
+
+/home/ubuntu/scripts/hoe/.git/hooks:
+total 60
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ../
+-rwxrwxr-x 1 ubuntu ubuntu  478 May 25 20:22 applypatch-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  896 May 25 20:22 commit-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 3079 May 25 20:22 fsmonitor-watchman.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  189 May 25 20:22 post-update.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  424 May 25 20:22 pre-applypatch.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1638 May 25 20:22 pre-commit.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  416 May 25 20:22 pre-merge-commit.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1348 May 25 20:22 pre-push.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 4898 May 25 20:22 pre-rebase.sample*
+-rwxrwxr-x 1 ubuntu ubuntu  544 May 25 20:22 pre-receive.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 1492 May 25 20:22 prepare-commit-msg.sample*
+-rwxrwxr-x 1 ubuntu ubuntu 3610 May 25 20:22 update.sample*
+
+/home/ubuntu/scripts/hoe/.git/info:
+total 12
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ../
+-rw-rw-r-- 1 ubuntu ubuntu  240 May 25 20:22 exclude
+
+/home/ubuntu/scripts/hoe/.git/objects:
+total 16
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ../
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 info/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 pack/
+
+/home/ubuntu/scripts/hoe/.git/objects/info:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ../
+
+/home/ubuntu/scripts/hoe/.git/objects/pack:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ../
+
+/home/ubuntu/scripts/hoe/.git/refs:
+total 16
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 7 ubuntu ubuntu 4096 May 25 20:25 ../
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 heads/
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 tags/
+
+/home/ubuntu/scripts/hoe/.git/refs/heads:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ../
+
+/home/ubuntu/scripts/hoe/.git/refs/tags:
+total 8
+drwxrwxr-x 2 ubuntu ubuntu 4096 May 25 20:22 ./
+drwxrwxr-x 4 ubuntu ubuntu 4096 May 25 20:22 ../
+
+/home/ubuntu/scripts/mmm:
+total 8
+drwxrwxr-x  2 ubuntu ubuntu 4096 May 23 17:09 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/testdir:
+total 8
+drwxrwxr-x  2 ubuntu ubuntu 4096 May 25 00:16 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
+
+/home/ubuntu/scripts/testpem:
+total 8
+drwxr-xr-x  2 root   root   4096 May 25 00:11 ./
+drwxrwxr-x 11 ubuntu ubuntu 4096 May 26 23:10 ../
